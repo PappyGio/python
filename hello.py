@@ -1,0 +1,5 @@
+print("hello to the world")
+print("My name is stephen david gio reyes")
+print("I am 19 years old")
+print("And i am  a Computer science student")
+print("Currently studying at university of san  carlos ")
